@@ -21,3 +21,4 @@ There is no central resource, but some model documentation is available for diff
 
 Different degrees of model documentation in various formats is available via the `further_info_url`, which is accessible by following the links under the **source_id** header in the [list of CORDEX-CMIP6 registered models](https://wcrp-cordex.github.io/cordex-cmip6-cv/CORDEX-CMIP6_source_id.html).
 Additional information on particular model configurations is sometimes available via the `source_id` registration [GitHub issues](https://github.com/WCRP-CORDEX/cordex-cmip6-cv/issues?q=is%3Aissue%20label%3A%22Register%20source_id%22).
+Finally, the [ESGF Citation Service](https://cmip7-citations.ceda.ac.uk/citations) also includes a model description and a References tab which may point to additional details.
